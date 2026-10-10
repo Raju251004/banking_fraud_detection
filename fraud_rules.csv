@@ -1,0 +1,11 @@
+fraud_rule_id,rule_name,rule_description,risk_level,threshold_value,rule_status
+1,High Value Transaction,Transaction amount exceeds high-value threshold,high,100000.0,active
+2,Rapid Multiple Transactions,4+ transactions from same account within 10 minutes,high,4.0,active
+3,Unusual Location,Transaction location differs from customer usual location,medium,,active
+4,New Device Transaction,Transaction made from a device never used before,medium,,active
+5,Repeated Failed Transactions,3+ failed transactions followed by a success,high,3.0,active
+6,Unusual Transaction Frequency,Daily transaction count far exceeds customer average,medium,15.0,active
+7,Unusual Transaction Amount,Amount significantly higher than customer average,medium,5.0,active
+8,High Risk Merchant,Transaction involves a merchant flagged high risk,medium,,active
+9,Multiple Locations in Short Time,2+ transactions from different locations within 15 minutes,high,15.0,active
+10,Abnormal Customer Behavior,Composite deviation from established customer baseline,medium,,active

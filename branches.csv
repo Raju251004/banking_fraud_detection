@@ -1,0 +1,29 @@
+branch_id,branch_name,branch_code,city,state,address,manager_name,opened_date
+1,Chennai Main Branch,BR0001,Chennai,Tamil Nadu,"H.No. 433, Chaudry Street",Pahal Balay,2016-10-03
+2,Mumbai Main Branch,BR0002,Mumbai,Maharashtra,"H.No. 338, Bala",Oni Kannan,1998-10-15
+3,Bengaluru Main Branch,BR0003,Bengaluru,Karnataka,"40/26
+Mall Path",Tanveer Nayar,1995-11-07
+4,Delhi Main Branch,BR0004,Delhi,Delhi,"H.No. 615, Lalla Path",Tripti Yadav,2004-05-10
+5,Hyderabad Main Branch,BR0005,Hyderabad,Telangana,"18, Pathak Road",Ekaraj Bath,2003-05-02
+6,Kolkata Main Branch,BR0006,Kolkata,West Bengal,"H.No. 13, Rai Zila",Sudiksha Patla,2002-08-05
+7,Pune Main Branch,BR0007,Pune,Maharashtra,"H.No. 53, Bora Road",Yash Gade,1999-10-01
+8,Ahmedabad Main Branch,BR0008,Ahmedabad,Gujarat,"48
+Nair Ganj",Veer Balay,1998-06-27
+9,Coimbatore Main Branch,BR0009,Coimbatore,Tamil Nadu,"41
+Murty Ganj",Xalak Randhawa,2018-01-09
+10,Jaipur Main Branch,BR0010,Jaipur,Rajasthan,"423
+Yohannan Circle",Priya Rastogi,2013-07-22
+11,Lucknow Main Branch,BR0011,Lucknow,Uttar Pradesh,"287
+Batta Zila",Michael Dutta,1997-12-16
+12,Kochi Main Branch,BR0012,Kochi,Kerala,"16/69
+Wadhwa Chowk",Advay Contractor,2015-02-03
+13,Chandigarh Main Branch,BR0013,Chandigarh,Chandigarh,"51/462
+Aggarwal Chowk",Xiti Gokhale,2009-05-10
+14,Nagpur Main Branch,BR0014,Nagpur,Maharashtra,"48/932, Edwin Path",Ekiya Suresh,1996-01-30
+15,Indore Main Branch,BR0015,Indore,Madhya Pradesh,"H.No. 543, Khosla Nagar",Frederick Sunder,1996-01-06
+16,Visakhapatnam Main Branch,BR0016,Visakhapatnam,Andhra Pradesh,"22/78, Lanka Street",Siddharth Zacharia,1998-03-10
+17,Bhopal Main Branch,BR0017,Bhopal,Madhya Pradesh,"46/578, Dara Chowk",Umang Bhatt,2002-06-10
+18,Patna Main Branch,BR0018,Patna,Bihar,"H.No. 983
+Kannan",Ekavir Bhargava,2002-12-01
+19,Surat Main Branch,BR0019,Surat,Gujarat,"H.No. 051, Khanna Circle",Vedika Kala,2012-03-12
+20,Madurai Main Branch,BR0020,Madurai,Tamil Nadu,"99/737, Gupta Marg",Gunbir Sankar,2015-06-26

@@ -1,0 +1,201 @@
+merchant_id,merchant_name,merchant_category,city,state,country,risk_level,merchant_status
+1,Sampath-Roy,Grocery,Patna,Bihar,India,low,inactive
+2,Bhagat-Chaudhari,Fuel,Patna,Bihar,India,low,active
+3,Rau Ltd,Utilities,Ahmedabad,Gujarat,India,low,active
+4,Chopra-Kothari,Pharmacy,Surat,Gujarat,India,low,active
+5,Gupta PLC,Restaurant,Chennai,Tamil Nadu,India,low,active
+6,Dey-Sami,Wallet Recharge,Kolkata,West Bengal,India,low,inactive
+7,Mallick Group,Online Gaming,Nagpur,Maharashtra,India,high,active
+8,Borra Group,Travel,Coimbatore,Tamil Nadu,India,low,active
+9,"Chaudhari, Bedi and Zachariah",Fashion,Pune,Maharashtra,India,low,active
+10,Chander and Sons,Wallet Recharge,Lucknow,Uttar Pradesh,India,low,active
+11,Ray Group,Electronics,Bengaluru,Karnataka,India,low,active
+12,Kala-Rattan,Utilities,Delhi,Delhi,India,low,active
+13,Gala Group,Travel,Kochi,Kerala,India,low,active
+14,Ramakrishnan LLC,Jewelry,Coimbatore,Tamil Nadu,India,medium,active
+15,Mangal-Sampath,Wallet Recharge,Mumbai,Maharashtra,India,low,active
+16,"Sur, Dubey and Gupta",Online Gaming,Indore,Madhya Pradesh,India,high,active
+17,Kalla-Bhardwaj,Entertainment,Delhi,Delhi,India,low,active
+18,"Bhat, Murthy and Bhandari",Education,Chandigarh,Chandigarh,India,high,active
+19,Sood PLC,Electronics,Patna,Bihar,India,low,active
+20,"Dugar, Bhandari and Trivedi",Restaurant,Madurai,Tamil Nadu,India,low,active
+21,Grewal Inc,Education,Kochi,Kerala,India,low,active
+22,"Bir, Keer and Raval",Jewelry,Pune,Maharashtra,India,medium,active
+23,Koshy PLC,Online Gaming,Bengaluru,Karnataka,India,medium,active
+24,"Baral, Bumb and Saini",Grocery,Ahmedabad,Gujarat,India,low,active
+25,"Virk, Mutti and Lal",Wallet Recharge,Jaipur,Rajasthan,India,low,active
+26,Murthy and Sons,Electronics,Ahmedabad,Gujarat,India,high,active
+27,Randhawa-Deep,Insurance,Delhi,Delhi,India,medium,active
+28,"Mital, Shankar and Mutti",Utilities,Coimbatore,Tamil Nadu,India,low,active
+29,Andra Group,Pharmacy,Kochi,Kerala,India,low,active
+30,"Chaudhry, Borah and Yogi",Fashion,Kochi,Kerala,India,low,active
+31,Toor LLC,Travel,Pune,Maharashtra,India,low,active
+32,Palla Inc,Crypto Exchange,Coimbatore,Tamil Nadu,India,high,active
+33,Pingle LLC,Online Gaming,Bengaluru,Karnataka,India,medium,active
+34,Sarma PLC,Jewelry,Kolkata,West Bengal,India,medium,active
+35,"Mittal, Wadhwa and Anand",Entertainment,Ahmedabad,Gujarat,India,low,inactive
+36,"Mistry, Chawla and Desai",Fashion,Indore,Madhya Pradesh,India,medium,active
+37,D’Alia-Chhabra,Utilities,Coimbatore,Tamil Nadu,India,low,active
+38,"Dugal, Magar and Manda",Education,Patna,Bihar,India,low,active
+39,"Kade, Oza and Jani",Fuel,Lucknow,Uttar Pradesh,India,medium,active
+40,"Lalla, Tiwari and Suresh",Insurance,Mumbai,Maharashtra,India,low,active
+41,Behl-Chanda,Fuel,Mumbai,Maharashtra,India,medium,active
+42,"Sampath, Malhotra and Basu",Wallet Recharge,Lucknow,Uttar Pradesh,India,low,active
+43,Nath and Sons,Utilities,Coimbatore,Tamil Nadu,India,low,active
+44,"Lala, Edwin and Sathe",Electronics,Pune,Maharashtra,India,low,active
+45,"Sane, Andra and Choudhury",Education,Surat,Gujarat,India,medium,active
+46,Dixit PLC,Education,Lucknow,Uttar Pradesh,India,low,active
+47,Pingle PLC,Fuel,Visakhapatnam,Andhra Pradesh,India,medium,active
+48,"Divan, Sani and Datta",Utilities,Indore,Madhya Pradesh,India,medium,active
+49,Morar LLC,Fashion,Coimbatore,Tamil Nadu,India,low,active
+50,Parmar and Sons,Fashion,Ahmedabad,Gujarat,India,low,active
+51,"Krish, Chauhan and Pandya",Online Gaming,Patna,Bihar,India,medium,active
+52,"Ray, Dubey and Khalsa",Entertainment,Coimbatore,Tamil Nadu,India,low,active
+53,Goel Group,Online Gaming,Surat,Gujarat,India,high,active
+54,Gola Ltd,Utilities,Surat,Gujarat,India,low,active
+55,Sabharwal-Kothari,Utilities,Kochi,Kerala,India,low,active
+56,Dutta-Chokshi,Fuel,Hyderabad,Telangana,India,low,active
+57,Barad-Singhal,Entertainment,Visakhapatnam,Andhra Pradesh,India,medium,active
+58,Iyengar Group,Electronics,Mumbai,Maharashtra,India,low,active
+59,Mody-Kari,Insurance,Delhi,Delhi,India,medium,active
+60,Bajwa Ltd,Fashion,Kolkata,West Bengal,India,medium,active
+61,Rastogi LLC,Wallet Recharge,Nagpur,Maharashtra,India,medium,active
+62,Boase-Mallick,Jewelry,Bengaluru,Karnataka,India,high,active
+63,Upadhyay-Ratta,Utilities,Chandigarh,Chandigarh,India,low,active
+64,"Yadav, Narula and Bala",Jewelry,Indore,Madhya Pradesh,India,high,active
+65,Lal and Sons,Entertainment,Coimbatore,Tamil Nadu,India,low,active
+66,"Lanka, Barad and Chopra",Entertainment,Chennai,Tamil Nadu,India,low,active
+67,"Saraf, Pai and Murthy",Crypto Exchange,Delhi,Delhi,India,medium,active
+68,Vaidya-D’Alia,Crypto Exchange,Patna,Bihar,India,high,active
+69,Gupta-Kumar,Wallet Recharge,Coimbatore,Tamil Nadu,India,low,active
+70,Sarin Inc,Wallet Recharge,Lucknow,Uttar Pradesh,India,low,inactive
+71,"Yohannan, Hegde and Patla",Electronics,Jaipur,Rajasthan,India,high,active
+72,Boase-Narayanan,Utilities,Kolkata,West Bengal,India,low,active
+73,"Murthy, Dash and Mital",Pharmacy,Chennai,Tamil Nadu,India,low,active
+74,"More, Rege and Narain",Online Gaming,Coimbatore,Tamil Nadu,India,high,active
+75,Merchant-Datta,Entertainment,Kolkata,West Bengal,India,low,active
+76,Salvi Ltd,Entertainment,Delhi,Delhi,India,medium,active
+77,Ghosh-Mitra,Insurance,Jaipur,Rajasthan,India,low,active
+78,Acharya-Modi,Insurance,Bhopal,Madhya Pradesh,India,high,active
+79,Kade-Sani,Jewelry,Pune,Maharashtra,India,high,active
+80,"Nagy, Shroff and Sathe",Fashion,Kochi,Kerala,India,low,active
+81,Kala-Vaidya,Wallet Recharge,Kolkata,West Bengal,India,low,active
+82,Gara-Chad,Entertainment,Bhopal,Madhya Pradesh,India,low,active
+83,Varma-Nayak,Education,Chennai,Tamil Nadu,India,low,active
+84,Keer Ltd,Jewelry,Lucknow,Uttar Pradesh,India,high,active
+85,Kar-Issac,Pharmacy,Chennai,Tamil Nadu,India,low,active
+86,Bakshi Inc,Electronics,Kochi,Kerala,India,low,active
+87,Soman PLC,Education,Jaipur,Rajasthan,India,low,active
+88,Shah Group,Fuel,Mumbai,Maharashtra,India,low,active
+89,"Hayer, Rajagopalan and Talwar",Fuel,Surat,Gujarat,India,low,active
+90,Kohli-Divan,Electronics,Bengaluru,Karnataka,India,medium,active
+91,"Ahluwalia, Chhabra and Sandal",Online Gaming,Visakhapatnam,Andhra Pradesh,India,high,active
+92,Goda Ltd,Insurance,Bengaluru,Karnataka,India,medium,active
+93,"Shetty, Bedi and Krish",Wallet Recharge,Patna,Bihar,India,low,active
+94,Shan and Sons,Wallet Recharge,Hyderabad,Telangana,India,medium,active
+95,Wali-Nadig,Fashion,Visakhapatnam,Andhra Pradesh,India,low,active
+96,Thaman-Sandhu,Entertainment,Kolkata,West Bengal,India,low,active
+97,"Sehgal, Dutt and Soman",Restaurant,Bhopal,Madhya Pradesh,India,medium,active
+98,Lad-Kota,Insurance,Madurai,Tamil Nadu,India,low,active
+99,"Malhotra, Verma and Sundaram",Utilities,Pune,Maharashtra,India,low,active
+100,"Khare, Maharaj and Sarraf",Education,Patna,Bihar,India,medium,active
+101,Mangal and Sons,Wallet Recharge,Pune,Maharashtra,India,low,active
+102,Nayak-Nagarajan,Online Gaming,Jaipur,Rajasthan,India,medium,active
+103,"Buch, Devi and Dora",Utilities,Kochi,Kerala,India,low,active
+104,Rajagopal Ltd,Pharmacy,Bhopal,Madhya Pradesh,India,low,active
+105,Kala Inc,Pharmacy,Delhi,Delhi,India,low,active
+106,Reddy-Narayanan,Fuel,Ahmedabad,Gujarat,India,low,active
+107,"Shukla, Sagar and Bhatia",Electronics,Lucknow,Uttar Pradesh,India,low,active
+108,Salvi Group,Grocery,Surat,Gujarat,India,low,active
+109,"Bahri, Rai and Sood",Entertainment,Ahmedabad,Gujarat,India,low,active
+110,Pandey LLC,Jewelry,Ahmedabad,Gujarat,India,high,active
+111,Saini-Yohannan,Grocery,Bengaluru,Karnataka,India,low,active
+112,"Kannan, Sura and Kanda",Online Gaming,Mumbai,Maharashtra,India,medium,active
+113,Sarin-Sunder,Fuel,Bengaluru,Karnataka,India,low,active
+114,Ramachandran LLC,Education,Mumbai,Maharashtra,India,high,active
+115,"Ravel, Gandhi and Sibal",Insurance,Lucknow,Uttar Pradesh,India,medium,active
+116,Walla Inc,Electronics,Bhopal,Madhya Pradesh,India,medium,active
+117,Bala-Chacko,Fuel,Coimbatore,Tamil Nadu,India,low,active
+118,"Sangha, Deshmukh and Shenoy",Crypto Exchange,Visakhapatnam,Andhra Pradesh,India,medium,active
+119,Bedi LLC,Fuel,Patna,Bihar,India,low,active
+120,Narang-Kakar,Fashion,Surat,Gujarat,India,low,active
+121,Narain-Nazareth,Jewelry,Visakhapatnam,Andhra Pradesh,India,high,inactive
+122,Mall-Sama,Fuel,Visakhapatnam,Andhra Pradesh,India,medium,active
+123,Bumb-Singhal,Wallet Recharge,Nagpur,Maharashtra,India,low,active
+124,Zacharia Inc,Fuel,Delhi,Delhi,India,low,inactive
+125,Kapur-Biswas,Electronics,Nagpur,Maharashtra,India,high,active
+126,"Baria, Balasubramanian and Kota",Travel,Nagpur,Maharashtra,India,low,active
+127,Bahri PLC,Utilities,Indore,Madhya Pradesh,India,medium,active
+128,Khare and Sons,Insurance,Mumbai,Maharashtra,India,low,active
+129,Contractor-Kamdar,Crypto Exchange,Delhi,Delhi,India,high,active
+130,Kunda-Pillay,Grocery,Chandigarh,Chandigarh,India,low,active
+131,Contractor and Sons,Online Gaming,Lucknow,Uttar Pradesh,India,high,inactive
+132,Chokshi-Bal,Wallet Recharge,Delhi,Delhi,India,low,active
+133,Prashad-Ranganathan,Fuel,Pune,Maharashtra,India,medium,active
+134,"Issac, Borra and Kibe",Fuel,Patna,Bihar,India,low,active
+135,Mitra Ltd,Pharmacy,Hyderabad,Telangana,India,low,active
+136,"Dara, Barman and Palan",Utilities,Kolkata,West Bengal,India,medium,active
+137,"Sangha, Prabhakar and Biswas",Restaurant,Indore,Madhya Pradesh,India,medium,active
+138,"Om, Arora and Salvi",Fuel,Bengaluru,Karnataka,India,low,active
+139,Cherian-Sant,Pharmacy,Patna,Bihar,India,medium,active
+140,Sharaf-Dua,Electronics,Mumbai,Maharashtra,India,low,active
+141,Goda-Vig,Crypto Exchange,Patna,Bihar,India,high,active
+142,"Madan, Yohannan and Sule",Insurance,Chennai,Tamil Nadu,India,low,active
+143,Sarin-Loyal,Electronics,Ahmedabad,Gujarat,India,low,active
+144,Korpal-Chadha,Fashion,Nagpur,Maharashtra,India,low,active
+145,Seshadri-Kohli,Pharmacy,Visakhapatnam,Andhra Pradesh,India,low,active
+146,Raghavan-Nayar,Fuel,Chandigarh,Chandigarh,India,low,active
+147,Talwar LLC,Education,Mumbai,Maharashtra,India,medium,active
+148,Sura and Sons,Fashion,Chandigarh,Chandigarh,India,low,active
+149,Kuruvilla-Oak,Grocery,Chandigarh,Chandigarh,India,medium,active
+150,Majumdar-Anne,Restaurant,Indore,Madhya Pradesh,India,low,active
+151,"Halder, Chada and Khurana",Restaurant,Nagpur,Maharashtra,India,low,active
+152,"Ray, Suresh and Khosla",Online Gaming,Patna,Bihar,India,high,active
+153,"Soni, Swaminathan and Sem",Crypto Exchange,Visakhapatnam,Andhra Pradesh,India,high,inactive
+154,Chander LLC,Fashion,Pune,Maharashtra,India,low,active
+155,Ravel Ltd,Restaurant,Pune,Maharashtra,India,medium,active
+156,Mohan Ltd,Grocery,Surat,Gujarat,India,low,active
+157,"Pillay, Solanki and Wali",Online Gaming,Patna,Bihar,India,medium,inactive
+158,Sandal-Narayanan,Grocery,Lucknow,Uttar Pradesh,India,medium,active
+159,Setty-Madan,Grocery,Mumbai,Maharashtra,India,low,active
+160,Krishnamurthy-Kashyap,Jewelry,Visakhapatnam,Andhra Pradesh,India,medium,active
+161,Hans LLC,Entertainment,Bhopal,Madhya Pradesh,India,low,active
+162,Wason Ltd,Fashion,Mumbai,Maharashtra,India,low,active
+163,Handa and Sons,Entertainment,Bengaluru,Karnataka,India,high,active
+164,"Sule, Malhotra and Vohra",Insurance,Kolkata,West Bengal,India,low,active
+165,"Mandal, Chaudhry and Hari",Electronics,Madurai,Tamil Nadu,India,low,active
+166,Karan-Patel,Electronics,Ahmedabad,Gujarat,India,low,active
+167,Mittal Inc,Utilities,Delhi,Delhi,India,low,active
+168,"Walla, Date and Mahal",Education,Surat,Gujarat,India,low,active
+169,Bhagat PLC,Fuel,Surat,Gujarat,India,medium,active
+170,Date-Swaminathan,Jewelry,Mumbai,Maharashtra,India,high,active
+171,Arora PLC,Jewelry,Bengaluru,Karnataka,India,high,active
+172,Singh-Srinivas,Utilities,Surat,Gujarat,India,low,active
+173,Oak-Gour,Jewelry,Bhopal,Madhya Pradesh,India,high,active
+174,Krishnan Group,Travel,Coimbatore,Tamil Nadu,India,low,active
+175,Bhattacharyya Group,Fuel,Lucknow,Uttar Pradesh,India,low,active
+176,Borah-Bera,Fuel,Coimbatore,Tamil Nadu,India,low,active
+177,Dixit PLC,Utilities,Hyderabad,Telangana,India,low,active
+178,Chada-Kothari,Crypto Exchange,Jaipur,Rajasthan,India,medium,active
+179,Saha PLC,Pharmacy,Lucknow,Uttar Pradesh,India,low,active
+180,"Kara, Virk and Rai",Education,Bengaluru,Karnataka,India,medium,active
+181,Savant-Mishra,Grocery,Indore,Madhya Pradesh,India,low,active
+182,"Sanghvi, Mody and Bhasin",Jewelry,Surat,Gujarat,India,high,active
+183,"Chaudhary, Johal and Kakar",Electronics,Bengaluru,Karnataka,India,medium,active
+184,Bumb-Dugar,Entertainment,Pune,Maharashtra,India,high,active
+185,Ghose PLC,Entertainment,Coimbatore,Tamil Nadu,India,low,active
+186,Dugar Inc,Fashion,Kochi,Kerala,India,low,active
+187,Seshadri-Singhal,Education,Bengaluru,Karnataka,India,low,active
+188,Bali-Kata,Education,Ahmedabad,Gujarat,India,low,active
+189,Mandal-Setty,Travel,Jaipur,Rajasthan,India,medium,active
+190,Kaur LLC,Fashion,Indore,Madhya Pradesh,India,medium,active
+191,"Hora, Sandal and Contractor",Insurance,Patna,Bihar,India,low,active
+192,"Kar, Dixit and Lata",Online Gaming,Jaipur,Rajasthan,India,high,active
+193,Bora Inc,Jewelry,Bhopal,Madhya Pradesh,India,high,active
+194,Mohanty PLC,Grocery,Patna,Bihar,India,low,active
+195,"Mani, Sarna and Dash",Restaurant,Delhi,Delhi,India,medium,active
+196,Modi-Rau,Education,Hyderabad,Telangana,India,high,active
+197,Tella-Zacharia,Restaurant,Delhi,Delhi,India,low,active
+198,Sarma-Buch,Education,Delhi,Delhi,India,low,active
+199,"Baral, Sankaran and Naidu",Online Gaming,Patna,Bihar,India,high,active
+200,"Krishna, Bal and Chand",Fashion,Coimbatore,Tamil Nadu,India,medium,active

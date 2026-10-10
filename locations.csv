@@ -1,0 +1,31 @@
+location_id,location_name,city,state,country,latitude,longitude,location_type
+1,Chennai Branch,Chennai,Tamil Nadu,India,23.7255755,82.9170194,Branch
+2,Mumbai POS,Mumbai,Maharashtra,India,25.8749253,85.3524307,POS
+3,Bengaluru Mobile,Bengaluru,Karnataka,India,20.7018282,86.2960568,Mobile
+4,Delhi ATM,Delhi,Delhi,India,10.3997602,77.6243639,ATM
+5,Hyderabad Branch,Hyderabad,Telangana,India,9.1462558,76.0040177,Branch
+6,Kolkata POS,Kolkata,West Bengal,India,24.5649478,74.7151947,POS
+7,Pune Online,Pune,Maharashtra,India,22.3436909,77.6983645,Online
+8,Ahmedabad ATM,Ahmedabad,Gujarat,India,10.9087209,87.0109169,ATM
+9,Coimbatore POS,Coimbatore,Tamil Nadu,India,22.1853475,85.0227104,POS
+10,Jaipur Mobile,Jaipur,Rajasthan,India,22.3656525,77.7361608,Mobile
+11,Lucknow ATM,Lucknow,Uttar Pradesh,India,16.0147171,86.1816668,ATM
+12,Kochi ATM,Kochi,Kerala,India,31.3720405,73.7813777,ATM
+13,Chandigarh POS,Chandigarh,Chandigarh,India,25.3402687,76.3662154,POS
+14,Nagpur Mobile,Nagpur,Maharashtra,India,30.9875022,77.314793,Mobile
+15,Indore Mobile,Indore,Madhya Pradesh,India,27.4864179,86.6637488,Mobile
+16,Visakhapatnam POS,Visakhapatnam,Andhra Pradesh,India,30.4797481,87.5717086,POS
+17,Bhopal POS,Bhopal,Madhya Pradesh,India,30.9168213,70.4461545,POS
+18,Patna Branch,Patna,Bihar,India,28.3420489,77.410837,Branch
+19,Surat POS,Surat,Gujarat,India,14.9369484,84.1727412,POS
+20,Madurai ATM,Madurai,Tamil Nadu,India,17.9460848,70.6970429,ATM
+21,Visakhapatnam Online Gateway,Visakhapatnam,Andhra Pradesh,India,13.1888936,86.5321342,Online
+22,Kochi Mobile Gateway,Kochi,Kerala,India,29.3339459,85.6838146,Mobile
+23,Ahmedabad Online Gateway,Ahmedabad,Gujarat,India,25.1608628,77.1723876,Online
+24,Coimbatore Online Gateway,Coimbatore,Tamil Nadu,India,33.1391167,75.0242499,Online
+25,Bhopal Mobile Gateway,Bhopal,Madhya Pradesh,India,25.6674711,85.1859009,Mobile
+26,Lucknow Online Gateway,Lucknow,Uttar Pradesh,India,10.9988855,87.467211,Online
+27,Kolkata Mobile Gateway,Kolkata,West Bengal,India,8.9946871,80.7382826,Mobile
+28,Kochi Mobile Gateway,Kochi,Kerala,India,19.346241,87.7162453,Mobile
+29,Delhi Mobile Gateway,Delhi,Delhi,India,31.3871231,73.4214179,Mobile
+30,Mumbai Mobile Gateway,Mumbai,Maharashtra,India,8.0439732,86.660353,Mobile

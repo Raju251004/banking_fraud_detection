@@ -1,0 +1,1150 @@
+history_id,account_id,old_status,new_status,changed_at,reason
+1,1,,active,2019-11-28,Account opened
+2,2,,active,2012-07-20,Account opened
+3,3,,active,2025-09-19,Account opened
+4,4,,active,2024-01-28,Account opened
+5,4,active,active,2025-04-28,Reactivated after review
+6,5,,active,2024-05-12,Account opened
+7,6,,active,2023-10-10,Account opened
+8,7,,active,2020-11-14,Account opened
+9,8,,active,2022-01-18,Account opened
+10,9,,active,2023-10-31,Account opened
+11,9,active,inactive,2025-03-07,No activity for extended period
+12,9,inactive,closed,2025-10-14,Customer requested closure
+13,10,,active,2021-03-28,Account opened
+14,10,active,active,2022-02-03,Reactivated after review
+15,11,,active,2022-04-13,Account opened
+16,11,active,suspended,2023-05-15,Suspicious activity under review
+17,11,suspended,active,2023-09-07,Reactivated after review
+18,12,,active,2023-11-22,Account opened
+19,13,,active,2022-10-20,Account opened
+20,13,active,suspended,2023-03-25,Suspicious activity under review
+21,13,suspended,suspended,2023-07-04,Suspicious activity under review
+22,14,,active,2023-06-13,Account opened
+23,14,active,inactive,2023-10-22,No activity for extended period
+24,14,inactive,active,2024-08-29,Reactivated after review
+25,15,,active,2022-03-15,Account opened
+26,15,active,suspended,2023-05-16,Suspicious activity under review
+27,15,suspended,active,2024-05-09,Reactivated after review
+28,16,,active,2025-06-03,Account opened
+29,17,,active,2020-03-27,Account opened
+30,18,,active,2021-08-17,Account opened
+31,18,active,active,2021-09-27,Reactivated after review
+32,19,,active,2012-10-06,Account opened
+33,19,active,inactive,2013-09-17,No activity for extended period
+34,20,,active,2022-04-21,Account opened
+35,20,active,suspended,2022-08-17,Suspicious activity under review
+36,20,suspended,active,2023-02-23,Reactivated after review
+37,21,,active,2022-02-20,Account opened
+38,22,,active,2023-06-11,Account opened
+39,22,active,inactive,2024-07-13,No activity for extended period
+40,23,,active,2024-07-30,Account opened
+41,23,active,active,2025-02-04,Reactivated after review
+42,24,,active,2023-09-22,Account opened
+43,25,,active,2022-08-22,Account opened
+44,26,,active,2025-05-28,Account opened
+45,27,,active,2016-05-17,Account opened
+46,27,active,active,2016-08-09,Reactivated after review
+47,28,,active,2022-05-09,Account opened
+48,28,active,suspended,2022-08-17,Suspicious activity under review
+49,28,suspended,active,2023-01-10,Reactivated after review
+50,29,,active,2010-12-20,Account opened
+51,29,active,active,2012-04-15,Reactivated after review
+52,30,,active,2020-12-03,Account opened
+53,30,active,active,2021-04-24,Reactivated after review
+54,31,,active,2023-09-11,Account opened
+55,31,active,active,2023-12-07,Reactivated after review
+56,32,,active,2024-07-16,Account opened
+57,32,active,suspended,2025-03-20,Suspicious activity under review
+58,33,,active,2023-01-29,Account opened
+59,33,active,active,2023-07-22,Reactivated after review
+60,34,,active,2025-02-23,Account opened
+61,34,active,inactive,2025-12-07,No activity for extended period
+62,35,,active,2024-05-20,Account opened
+63,35,active,active,2025-07-02,Reactivated after review
+64,36,,active,2025-07-08,Account opened
+65,37,,active,2024-03-04,Account opened
+66,37,active,inactive,2024-12-01,No activity for extended period
+67,37,inactive,closed,2025-12-04,Customer requested closure
+68,38,,active,2025-05-12,Account opened
+69,39,,active,2025-08-20,Account opened
+70,40,,active,2021-11-19,Account opened
+71,41,,active,2020-10-21,Account opened
+72,42,,active,2025-05-01,Account opened
+73,43,,active,2025-06-11,Account opened
+74,44,,active,2015-01-18,Account opened
+75,45,,active,2022-10-08,Account opened
+76,46,,active,2022-04-21,Account opened
+77,47,,active,2017-09-29,Account opened
+78,47,active,suspended,2018-04-26,Suspicious activity under review
+79,48,,active,2020-09-26,Account opened
+80,49,,active,2022-10-07,Account opened
+81,50,,active,2021-01-04,Account opened
+82,50,active,inactive,2021-03-14,No activity for extended period
+83,50,inactive,inactive,2021-07-30,No activity for extended period
+84,51,,active,2022-08-07,Account opened
+85,51,active,suspended,2023-08-25,Suspicious activity under review
+86,51,suspended,active,2024-10-30,Reactivated after review
+87,52,,active,2025-10-19,Account opened
+88,53,,active,2025-04-07,Account opened
+89,54,,active,2025-03-26,Account opened
+90,55,,active,2024-11-16,Account opened
+91,55,active,inactive,2025-09-01,No activity for extended period
+92,55,inactive,active,2025-10-21,Reactivated after review
+93,56,,active,2023-03-03,Account opened
+94,57,,active,2021-03-08,Account opened
+95,57,active,suspended,2022-02-16,Suspicious activity under review
+96,58,,active,2023-08-28,Account opened
+97,58,active,suspended,2024-06-08,Suspicious activity under review
+98,58,suspended,suspended,2024-08-01,Suspicious activity under review
+99,59,,active,2025-03-30,Account opened
+100,60,,active,2024-05-12,Account opened
+101,61,,active,2013-07-21,Account opened
+102,62,,active,2015-12-07,Account opened
+103,62,active,active,2016-02-08,Reactivated after review
+104,63,,active,2023-08-15,Account opened
+105,63,active,inactive,2024-11-04,No activity for extended period
+106,63,inactive,active,2025-12-13,Reactivated after review
+107,64,,active,2024-06-25,Account opened
+108,64,active,active,2025-07-18,Reactivated after review
+109,65,,active,2020-03-16,Account opened
+110,65,active,active,2020-08-13,Reactivated after review
+111,66,,active,2021-01-02,Account opened
+112,67,,active,2024-12-12,Account opened
+113,68,,active,2014-10-11,Account opened
+114,68,active,active,2015-12-28,Reactivated after review
+115,69,,active,2022-05-23,Account opened
+116,69,active,inactive,2022-10-18,No activity for extended period
+117,69,inactive,closed,2023-01-13,Customer requested closure
+118,70,,active,2025-01-28,Account opened
+119,71,,active,2023-11-13,Account opened
+120,72,,active,2025-01-21,Account opened
+121,73,,active,2025-01-05,Account opened
+122,74,,active,2021-07-29,Account opened
+123,75,,active,2014-03-28,Account opened
+124,76,,active,2018-12-08,Account opened
+125,77,,active,2022-02-21,Account opened
+126,78,,active,2021-07-24,Account opened
+127,79,,active,2023-11-06,Account opened
+128,80,,active,2024-11-29,Account opened
+129,81,,active,2021-09-20,Account opened
+130,81,active,inactive,2023-01-22,No activity for extended period
+131,81,inactive,active,2024-04-01,Reactivated after review
+132,82,,active,2021-05-16,Account opened
+133,82,active,suspended,2022-02-22,Suspicious activity under review
+134,82,suspended,active,2022-05-28,Reactivated after review
+135,83,,active,2019-12-12,Account opened
+136,83,active,active,2021-04-22,Reactivated after review
+137,84,,active,2016-08-29,Account opened
+138,84,active,active,2017-03-11,Reactivated after review
+139,85,,active,2025-08-21,Account opened
+140,86,,active,2016-04-13,Account opened
+141,87,,active,2015-10-02,Account opened
+142,88,,active,2014-03-05,Account opened
+143,88,active,inactive,2014-09-05,No activity for extended period
+144,88,inactive,active,2015-01-20,Reactivated after review
+145,89,,active,2018-12-11,Account opened
+146,89,active,inactive,2020-03-30,No activity for extended period
+147,89,inactive,suspended,2021-05-04,Suspicious activity under review
+148,90,,active,2024-12-30,Account opened
+149,90,active,suspended,2025-07-21,Suspicious activity under review
+150,91,,active,2025-08-15,Account opened
+151,92,,active,2023-08-13,Account opened
+152,92,active,suspended,2024-05-05,Suspicious activity under review
+153,92,suspended,active,2024-11-28,Reactivated after review
+154,93,,active,2022-02-11,Account opened
+155,94,,active,2018-12-11,Account opened
+156,95,,active,2019-09-08,Account opened
+157,95,active,inactive,2020-08-24,No activity for extended period
+158,95,inactive,active,2020-10-27,Reactivated after review
+159,96,,active,2023-08-12,Account opened
+160,97,,active,2020-03-29,Account opened
+161,98,,active,2020-09-24,Account opened
+162,99,,active,2021-11-08,Account opened
+163,99,active,inactive,2022-04-29,No activity for extended period
+164,99,inactive,active,2022-06-28,Reactivated after review
+165,100,,active,2019-09-27,Account opened
+166,100,active,suspended,2020-11-05,Suspicious activity under review
+167,101,,active,2023-01-15,Account opened
+168,102,,active,2022-12-23,Account opened
+169,102,active,suspended,2023-04-19,Suspicious activity under review
+170,102,suspended,active,2023-10-23,Reactivated after review
+171,103,,active,2024-03-25,Account opened
+172,104,,active,2025-01-27,Account opened
+173,105,,active,2025-05-10,Account opened
+174,106,,active,2020-07-10,Account opened
+175,106,active,active,2021-01-02,Reactivated after review
+176,107,,active,2024-11-13,Account opened
+177,108,,active,2023-12-05,Account opened
+178,109,,active,2024-06-21,Account opened
+179,110,,active,2023-01-24,Account opened
+180,110,active,active,2023-09-19,Reactivated after review
+181,111,,active,2022-07-17,Account opened
+182,111,active,active,2023-08-29,Reactivated after review
+183,112,,active,2025-01-01,Account opened
+184,113,,active,2014-12-09,Account opened
+185,114,,active,2019-09-09,Account opened
+186,114,active,suspended,2020-06-02,Suspicious activity under review
+187,114,suspended,active,2021-04-29,Reactivated after review
+188,115,,active,2018-05-13,Account opened
+189,116,,active,2024-09-09,Account opened
+190,116,active,inactive,2025-04-18,No activity for extended period
+191,117,,active,2024-05-03,Account opened
+192,118,,active,2023-05-07,Account opened
+193,119,,active,2022-05-14,Account opened
+194,119,active,active,2023-05-06,Reactivated after review
+195,120,,active,2016-06-26,Account opened
+196,121,,active,2016-02-06,Account opened
+197,122,,active,2025-01-30,Account opened
+198,123,,active,2022-03-16,Account opened
+199,123,active,suspended,2022-09-29,Suspicious activity under review
+200,123,suspended,active,2022-12-29,Reactivated after review
+201,124,,active,2017-01-05,Account opened
+202,125,,active,2018-04-04,Account opened
+203,125,active,suspended,2018-09-22,Suspicious activity under review
+204,125,suspended,suspended,2019-04-15,Suspicious activity under review
+205,126,,active,2025-05-03,Account opened
+206,127,,active,2023-03-20,Account opened
+207,128,,active,2020-08-29,Account opened
+208,129,,active,2022-05-18,Account opened
+209,129,active,inactive,2023-04-20,No activity for extended period
+210,129,inactive,active,2024-01-18,Reactivated after review
+211,130,,active,2012-06-29,Account opened
+212,131,,active,2013-12-30,Account opened
+213,132,,active,2024-07-10,Account opened
+214,132,active,suspended,2025-06-28,Suspicious activity under review
+215,133,,active,2024-06-09,Account opened
+216,134,,active,2023-03-22,Account opened
+217,134,active,suspended,2023-05-01,Suspicious activity under review
+218,135,,active,2019-05-28,Account opened
+219,135,active,active,2019-08-19,Reactivated after review
+220,136,,active,2023-07-30,Account opened
+221,137,,active,2019-02-17,Account opened
+222,137,active,active,2019-11-15,Reactivated after review
+223,138,,active,2019-06-17,Account opened
+224,138,active,inactive,2020-05-12,No activity for extended period
+225,138,inactive,active,2020-08-05,Reactivated after review
+226,139,,active,2022-04-16,Account opened
+227,139,active,inactive,2023-03-06,No activity for extended period
+228,140,,active,2023-12-05,Account opened
+229,141,,active,2012-08-01,Account opened
+230,141,active,inactive,2013-08-19,No activity for extended period
+231,141,inactive,active,2014-01-28,Reactivated after review
+232,142,,active,2020-04-03,Account opened
+233,142,active,inactive,2020-11-06,No activity for extended period
+234,143,,active,2016-07-23,Account opened
+235,143,active,active,2017-02-05,Reactivated after review
+236,144,,active,2020-07-01,Account opened
+237,145,,active,2025-05-15,Account opened
+238,145,active,suspended,2025-11-08,Suspicious activity under review
+239,146,,active,2023-08-06,Account opened
+240,146,active,inactive,2024-02-09,No activity for extended period
+241,146,inactive,active,2025-04-02,Reactivated after review
+242,147,,active,2018-09-16,Account opened
+243,148,,active,2019-07-06,Account opened
+244,148,active,inactive,2020-01-09,No activity for extended period
+245,148,inactive,active,2020-10-23,Reactivated after review
+246,149,,active,2024-11-24,Account opened
+247,150,,active,2020-09-19,Account opened
+248,151,,active,2025-04-27,Account opened
+249,151,active,active,2025-06-22,Reactivated after review
+250,152,,active,2023-08-14,Account opened
+251,152,active,active,2024-04-14,Reactivated after review
+252,153,,active,2023-05-01,Account opened
+253,153,active,suspended,2023-06-21,Suspicious activity under review
+254,153,suspended,active,2023-10-11,Reactivated after review
+255,154,,active,2021-08-31,Account opened
+256,154,active,active,2022-09-30,Reactivated after review
+257,155,,active,2023-11-23,Account opened
+258,155,active,active,2024-12-27,Reactivated after review
+259,156,,active,2018-02-07,Account opened
+260,156,active,suspended,2018-11-26,Suspicious activity under review
+261,156,suspended,inactive,2019-07-28,No activity for extended period
+262,157,,active,2021-03-20,Account opened
+263,157,active,inactive,2021-12-06,No activity for extended period
+264,157,inactive,active,2022-08-17,Reactivated after review
+265,158,,active,2025-06-23,Account opened
+266,158,active,active,2025-08-20,Reactivated after review
+267,159,,active,2017-08-04,Account opened
+268,160,,active,2025-10-10,Account opened
+269,161,,active,2025-02-14,Account opened
+270,162,,active,2017-12-11,Account opened
+271,163,,active,2020-01-26,Account opened
+272,163,active,active,2021-04-04,Reactivated after review
+273,164,,active,2024-05-06,Account opened
+274,164,active,inactive,2025-06-15,No activity for extended period
+275,165,,active,2018-08-15,Account opened
+276,166,,active,2018-10-03,Account opened
+277,166,active,inactive,2020-02-11,No activity for extended period
+278,166,inactive,active,2021-02-19,Reactivated after review
+279,167,,active,2020-06-21,Account opened
+280,168,,active,2023-08-12,Account opened
+281,169,,active,2024-10-11,Account opened
+282,170,,active,2025-02-17,Account opened
+283,171,,active,2021-01-29,Account opened
+284,171,active,suspended,2022-02-05,Suspicious activity under review
+285,171,suspended,closed,2022-05-10,Customer requested closure
+286,172,,active,2022-07-27,Account opened
+287,172,active,suspended,2023-06-19,Suspicious activity under review
+288,172,suspended,active,2023-08-24,Reactivated after review
+289,173,,active,2019-10-09,Account opened
+290,173,active,active,2020-12-21,Reactivated after review
+291,174,,active,2025-01-18,Account opened
+292,174,active,active,2025-03-05,Reactivated after review
+293,175,,active,2021-11-06,Account opened
+294,176,,active,2023-11-09,Account opened
+295,176,active,inactive,2024-12-25,No activity for extended period
+296,176,inactive,active,2025-06-25,Reactivated after review
+297,177,,active,2025-04-24,Account opened
+298,177,active,inactive,2025-08-05,No activity for extended period
+299,177,inactive,active,2025-12-08,Reactivated after review
+300,178,,active,2022-07-30,Account opened
+301,178,active,suspended,2022-10-29,Suspicious activity under review
+302,178,suspended,active,2023-05-08,Reactivated after review
+303,179,,active,2020-07-03,Account opened
+304,179,active,inactive,2021-04-01,No activity for extended period
+305,179,inactive,active,2022-07-30,Reactivated after review
+306,180,,active,2014-03-21,Account opened
+307,181,,active,2024-08-18,Account opened
+308,181,active,suspended,2025-03-08,Suspicious activity under review
+309,182,,active,2025-07-09,Account opened
+310,183,,active,2023-04-01,Account opened
+311,183,active,active,2023-09-16,Reactivated after review
+312,184,,active,2022-11-26,Account opened
+313,184,active,closed,2023-05-13,Customer requested closure
+314,185,,active,2024-12-19,Account opened
+315,186,,active,2021-10-26,Account opened
+316,186,active,inactive,2023-01-22,No activity for extended period
+317,186,inactive,active,2024-05-27,Reactivated after review
+318,187,,active,2025-08-31,Account opened
+319,188,,active,2024-09-10,Account opened
+320,189,,active,2021-10-08,Account opened
+321,190,,active,2024-06-04,Account opened
+322,191,,active,2023-01-12,Account opened
+323,191,active,suspended,2023-06-20,Suspicious activity under review
+324,191,suspended,active,2024-10-29,Reactivated after review
+325,192,,active,2016-01-23,Account opened
+326,193,,active,2023-12-28,Account opened
+327,193,active,suspended,2024-10-02,Suspicious activity under review
+328,193,suspended,active,2025-01-24,Reactivated after review
+329,194,,active,2022-01-08,Account opened
+330,195,,active,2023-03-22,Account opened
+331,195,active,active,2023-12-25,Reactivated after review
+332,196,,active,2023-07-19,Account opened
+333,197,,active,2023-03-21,Account opened
+334,198,,active,2022-01-16,Account opened
+335,199,,active,2025-10-19,Account opened
+336,200,,active,2024-06-26,Account opened
+337,201,,active,2025-05-22,Account opened
+338,202,,active,2022-03-09,Account opened
+339,202,active,active,2022-06-07,Reactivated after review
+340,203,,active,2024-03-20,Account opened
+341,203,active,active,2024-05-05,Reactivated after review
+342,204,,active,2024-10-21,Account opened
+343,205,,active,2025-01-26,Account opened
+344,205,active,active,2025-06-11,Reactivated after review
+345,206,,active,2024-09-18,Account opened
+346,207,,active,2022-03-19,Account opened
+347,207,active,inactive,2022-07-11,No activity for extended period
+348,207,inactive,closed,2022-11-25,Customer requested closure
+349,208,,active,2021-07-05,Account opened
+350,208,active,suspended,2022-04-13,Suspicious activity under review
+351,208,suspended,inactive,2022-06-04,No activity for extended period
+352,209,,active,2020-04-23,Account opened
+353,209,active,active,2020-12-12,Reactivated after review
+354,210,,active,2017-08-25,Account opened
+355,211,,active,2025-09-27,Account opened
+356,212,,active,2025-07-23,Account opened
+357,213,,active,2022-06-27,Account opened
+358,213,active,active,2022-12-16,Reactivated after review
+359,214,,active,2024-09-18,Account opened
+360,215,,active,2016-09-02,Account opened
+361,216,,active,2025-10-27,Account opened
+362,217,,active,2022-06-18,Account opened
+363,218,,active,2020-03-22,Account opened
+364,218,active,suspended,2020-10-04,Suspicious activity under review
+365,218,suspended,active,2021-01-08,Reactivated after review
+366,219,,active,2021-09-02,Account opened
+367,220,,active,2020-03-11,Account opened
+368,220,active,inactive,2020-07-19,No activity for extended period
+369,221,,active,2024-11-10,Account opened
+370,222,,active,2022-10-06,Account opened
+371,223,,active,2023-09-02,Account opened
+372,223,active,active,2024-12-29,Reactivated after review
+373,224,,active,2019-12-12,Account opened
+374,225,,active,2019-03-12,Account opened
+375,226,,active,2024-12-27,Account opened
+376,226,active,inactive,2025-12-05,No activity for extended period
+377,227,,active,2023-05-28,Account opened
+378,228,,active,2020-04-22,Account opened
+379,228,active,active,2020-08-06,Reactivated after review
+380,229,,active,2019-11-18,Account opened
+381,230,,active,2019-06-08,Account opened
+382,231,,active,2024-08-11,Account opened
+383,232,,active,2023-10-18,Account opened
+384,233,,active,2023-03-17,Account opened
+385,233,active,suspended,2023-08-28,Suspicious activity under review
+386,233,suspended,suspended,2023-11-08,Suspicious activity under review
+387,234,,active,2021-02-06,Account opened
+388,235,,active,2023-06-24,Account opened
+389,235,active,suspended,2023-11-02,Suspicious activity under review
+390,235,suspended,active,2024-07-27,Reactivated after review
+391,236,,active,2020-07-23,Account opened
+392,237,,active,2024-05-31,Account opened
+393,237,active,inactive,2025-02-19,No activity for extended period
+394,237,inactive,active,2025-09-06,Reactivated after review
+395,238,,active,2017-01-05,Account opened
+396,238,active,inactive,2017-09-03,No activity for extended period
+397,238,inactive,active,2018-02-01,Reactivated after review
+398,239,,active,2014-06-03,Account opened
+399,240,,active,2024-05-05,Account opened
+400,241,,active,2023-07-31,Account opened
+401,242,,active,2025-11-30,Account opened
+402,243,,active,2019-05-25,Account opened
+403,243,active,suspended,2019-06-28,Suspicious activity under review
+404,243,suspended,active,2020-04-28,Reactivated after review
+405,244,,active,2016-12-26,Account opened
+406,245,,active,2022-08-25,Account opened
+407,246,,active,2023-09-20,Account opened
+408,247,,active,2014-12-20,Account opened
+409,247,active,active,2016-04-29,Reactivated after review
+410,248,,active,2025-01-02,Account opened
+411,249,,active,2021-01-13,Account opened
+412,249,active,inactive,2022-02-21,No activity for extended period
+413,249,inactive,inactive,2022-06-21,No activity for extended period
+414,250,,active,2024-08-27,Account opened
+415,251,,active,2021-03-19,Account opened
+416,252,,active,2022-04-15,Account opened
+417,252,active,inactive,2023-03-20,No activity for extended period
+418,252,inactive,closed,2024-05-12,Customer requested closure
+419,253,,active,2025-09-14,Account opened
+420,254,,active,2025-11-04,Account opened
+421,255,,active,2025-06-25,Account opened
+422,256,,active,2011-04-13,Account opened
+423,256,active,suspended,2012-04-25,Suspicious activity under review
+424,257,,active,2022-08-20,Account opened
+425,258,,active,2023-09-17,Account opened
+426,259,,active,2023-03-22,Account opened
+427,260,,active,2025-02-26,Account opened
+428,261,,active,2018-06-04,Account opened
+429,261,active,active,2019-07-29,Reactivated after review
+430,262,,active,2024-12-23,Account opened
+431,262,active,active,2025-07-19,Reactivated after review
+432,263,,active,2017-12-20,Account opened
+433,263,active,suspended,2018-02-24,Suspicious activity under review
+434,263,suspended,active,2018-09-11,Reactivated after review
+435,264,,active,2022-09-28,Account opened
+436,265,,active,2021-08-21,Account opened
+437,266,,active,2025-03-01,Account opened
+438,267,,active,2022-08-03,Account opened
+439,267,active,inactive,2023-05-10,No activity for extended period
+440,268,,active,2021-09-09,Account opened
+441,269,,active,2022-02-03,Account opened
+442,270,,active,2025-09-23,Account opened
+443,271,,active,2020-04-12,Account opened
+444,272,,active,2013-07-10,Account opened
+445,272,active,active,2014-03-20,Reactivated after review
+446,273,,active,2017-08-10,Account opened
+447,274,,active,2022-03-11,Account opened
+448,275,,active,2021-08-08,Account opened
+449,276,,active,2015-12-12,Account opened
+450,276,active,inactive,2016-02-04,No activity for extended period
+451,276,inactive,active,2017-03-15,Reactivated after review
+452,277,,active,2024-10-28,Account opened
+453,278,,active,2025-10-24,Account opened
+454,279,,active,2019-03-10,Account opened
+455,280,,active,2023-09-22,Account opened
+456,280,active,active,2024-12-31,Reactivated after review
+457,281,,active,2025-08-10,Account opened
+458,282,,active,2016-10-29,Account opened
+459,283,,active,2017-03-16,Account opened
+460,283,active,active,2017-12-17,Reactivated after review
+461,284,,active,2020-05-23,Account opened
+462,285,,active,2024-01-16,Account opened
+463,285,active,inactive,2024-08-04,No activity for extended period
+464,285,inactive,inactive,2024-09-29,No activity for extended period
+465,286,,active,2023-02-25,Account opened
+466,286,active,active,2024-05-15,Reactivated after review
+467,287,,active,2025-06-02,Account opened
+468,287,active,inactive,2025-07-08,No activity for extended period
+469,288,,active,2020-05-07,Account opened
+470,289,,active,2018-11-22,Account opened
+471,290,,active,2023-02-01,Account opened
+472,290,active,active,2024-01-13,Reactivated after review
+473,291,,active,2022-06-17,Account opened
+474,291,active,active,2022-11-14,Reactivated after review
+475,292,,active,2023-04-05,Account opened
+476,293,,active,2021-01-21,Account opened
+477,294,,active,2024-01-27,Account opened
+478,294,active,active,2025-02-09,Reactivated after review
+479,295,,active,2022-07-27,Account opened
+480,295,active,suspended,2023-01-20,Suspicious activity under review
+481,295,suspended,active,2024-04-15,Reactivated after review
+482,296,,active,2024-01-26,Account opened
+483,296,active,inactive,2024-11-06,No activity for extended period
+484,297,,active,2023-08-18,Account opened
+485,298,,active,2013-07-22,Account opened
+486,298,active,active,2014-07-10,Reactivated after review
+487,299,,active,2019-09-22,Account opened
+488,299,active,suspended,2020-10-26,Suspicious activity under review
+489,299,suspended,active,2022-02-15,Reactivated after review
+490,300,,active,2020-07-20,Account opened
+491,300,active,inactive,2020-12-30,No activity for extended period
+492,300,inactive,inactive,2021-10-11,No activity for extended period
+493,301,,active,2022-10-17,Account opened
+494,302,,active,2023-11-06,Account opened
+495,303,,active,2020-12-13,Account opened
+496,303,active,active,2022-01-20,Reactivated after review
+497,304,,active,2022-05-23,Account opened
+498,305,,active,2024-05-26,Account opened
+499,305,active,inactive,2025-07-04,No activity for extended period
+500,305,inactive,active,2025-10-14,Reactivated after review
+501,306,,active,2025-05-13,Account opened
+502,307,,active,2022-08-08,Account opened
+503,307,active,inactive,2022-12-05,No activity for extended period
+504,307,inactive,active,2024-02-08,Reactivated after review
+505,308,,active,2024-04-04,Account opened
+506,309,,active,2024-09-10,Account opened
+507,310,,active,2025-06-24,Account opened
+508,311,,active,2025-03-02,Account opened
+509,311,active,inactive,2025-05-09,No activity for extended period
+510,312,,active,2022-12-21,Account opened
+511,313,,active,2020-03-24,Account opened
+512,314,,active,2016-10-19,Account opened
+513,314,active,active,2017-04-01,Reactivated after review
+514,315,,active,2024-09-05,Account opened
+515,315,active,active,2025-01-31,Reactivated after review
+516,316,,active,2021-10-31,Account opened
+517,316,active,active,2022-07-12,Reactivated after review
+518,317,,active,2023-12-24,Account opened
+519,317,active,suspended,2025-02-24,Suspicious activity under review
+520,317,suspended,active,2025-09-10,Reactivated after review
+521,318,,active,2025-07-10,Account opened
+522,319,,active,2024-12-11,Account opened
+523,319,active,suspended,2025-11-14,Suspicious activity under review
+524,320,,active,2024-09-15,Account opened
+525,320,active,active,2025-11-27,Reactivated after review
+526,321,,active,2025-04-07,Account opened
+527,321,active,inactive,2025-08-06,No activity for extended period
+528,322,,active,2025-11-23,Account opened
+529,323,,active,2024-11-15,Account opened
+530,323,active,inactive,2025-01-09,No activity for extended period
+531,323,inactive,active,2025-08-27,Reactivated after review
+532,324,,active,2025-12-01,Account opened
+533,325,,active,2025-02-10,Account opened
+534,326,,active,2016-03-29,Account opened
+535,327,,active,2025-05-03,Account opened
+536,327,active,suspended,2025-10-09,Suspicious activity under review
+537,327,suspended,active,2025-12-27,Reactivated after review
+538,328,,active,2021-01-01,Account opened
+539,328,active,inactive,2021-07-23,No activity for extended period
+540,328,inactive,active,2022-03-26,Reactivated after review
+541,329,,active,2016-11-17,Account opened
+542,329,active,suspended,2017-03-15,Suspicious activity under review
+543,329,suspended,active,2018-06-14,Reactivated after review
+544,330,,active,2020-04-05,Account opened
+545,331,,active,2018-03-15,Account opened
+546,331,active,active,2018-08-07,Reactivated after review
+547,332,,active,2019-11-20,Account opened
+548,332,active,inactive,2020-07-25,No activity for extended period
+549,332,inactive,active,2021-09-04,Reactivated after review
+550,333,,active,2025-06-11,Account opened
+551,334,,active,2022-06-08,Account opened
+552,335,,active,2024-01-03,Account opened
+553,335,active,inactive,2025-04-09,No activity for extended period
+554,336,,active,2021-01-03,Account opened
+555,337,,active,2023-03-27,Account opened
+556,337,active,suspended,2024-08-02,Suspicious activity under review
+557,337,suspended,active,2024-10-04,Reactivated after review
+558,338,,active,2024-06-29,Account opened
+559,339,,active,2023-04-11,Account opened
+560,339,active,active,2023-08-27,Reactivated after review
+561,340,,active,2024-06-07,Account opened
+562,341,,active,2024-04-10,Account opened
+563,341,active,active,2024-12-28,Reactivated after review
+564,342,,active,2016-04-26,Account opened
+565,342,active,active,2017-03-20,Reactivated after review
+566,343,,active,2021-10-17,Account opened
+567,344,,active,2016-08-30,Account opened
+568,345,,active,2022-08-08,Account opened
+569,346,,active,2025-04-07,Account opened
+570,347,,active,2021-09-30,Account opened
+571,347,active,suspended,2022-02-18,Suspicious activity under review
+572,347,suspended,active,2023-01-11,Reactivated after review
+573,348,,active,2020-03-11,Account opened
+574,349,,active,2017-10-12,Account opened
+575,350,,active,2024-05-14,Account opened
+576,350,active,active,2024-12-23,Reactivated after review
+577,351,,active,2018-01-08,Account opened
+578,351,active,suspended,2019-05-04,Suspicious activity under review
+579,351,suspended,inactive,2020-04-30,No activity for extended period
+580,352,,active,2022-06-22,Account opened
+581,353,,active,2024-12-05,Account opened
+582,353,active,active,2025-11-05,Reactivated after review
+583,354,,active,2018-04-19,Account opened
+584,354,active,suspended,2019-03-14,Suspicious activity under review
+585,354,suspended,active,2019-11-06,Reactivated after review
+586,355,,active,2021-12-18,Account opened
+587,355,active,active,2022-03-28,Reactivated after review
+588,356,,active,2022-12-29,Account opened
+589,356,active,suspended,2023-07-03,Suspicious activity under review
+590,356,suspended,active,2024-07-18,Reactivated after review
+591,357,,active,2024-08-27,Account opened
+592,357,active,suspended,2025-01-24,Suspicious activity under review
+593,358,,active,2025-05-18,Account opened
+594,358,active,suspended,2025-09-25,Suspicious activity under review
+595,359,,active,2024-04-05,Account opened
+596,359,active,active,2025-07-15,Reactivated after review
+597,360,,active,2016-10-08,Account opened
+598,360,active,suspended,2017-01-25,Suspicious activity under review
+599,360,suspended,inactive,2017-06-05,No activity for extended period
+600,361,,active,2018-02-07,Account opened
+601,361,active,suspended,2018-11-04,Suspicious activity under review
+602,361,suspended,active,2019-12-01,Reactivated after review
+603,362,,active,2021-09-12,Account opened
+604,363,,active,2023-04-14,Account opened
+605,363,active,inactive,2023-08-14,No activity for extended period
+606,364,,active,2021-09-30,Account opened
+607,364,active,active,2022-10-13,Reactivated after review
+608,365,,active,2025-01-26,Account opened
+609,366,,active,2025-06-08,Account opened
+610,367,,active,2025-09-10,Account opened
+611,368,,active,2025-04-11,Account opened
+612,369,,active,2024-03-17,Account opened
+613,370,,active,2018-10-04,Account opened
+614,370,active,active,2020-02-15,Reactivated after review
+615,371,,active,2018-08-12,Account opened
+616,371,active,inactive,2018-12-24,No activity for extended period
+617,371,inactive,active,2019-09-12,Reactivated after review
+618,372,,active,2019-03-29,Account opened
+619,372,active,active,2020-03-31,Reactivated after review
+620,373,,active,2023-03-20,Account opened
+621,373,active,inactive,2024-01-20,No activity for extended period
+622,373,inactive,active,2025-02-26,Reactivated after review
+623,374,,active,2024-04-01,Account opened
+624,375,,active,2023-07-24,Account opened
+625,375,active,active,2023-12-21,Reactivated after review
+626,376,,active,2016-07-14,Account opened
+627,376,active,inactive,2017-04-12,No activity for extended period
+628,377,,active,2018-01-17,Account opened
+629,377,active,inactive,2018-07-26,No activity for extended period
+630,377,inactive,active,2019-09-05,Reactivated after review
+631,378,,active,2025-10-19,Account opened
+632,379,,active,2015-07-25,Account opened
+633,379,active,active,2016-02-02,Reactivated after review
+634,380,,active,2017-10-17,Account opened
+635,381,,active,2025-05-22,Account opened
+636,382,,active,2025-07-04,Account opened
+637,383,,active,2024-08-31,Account opened
+638,384,,active,2018-02-07,Account opened
+639,385,,active,2017-07-15,Account opened
+640,385,active,inactive,2017-09-22,No activity for extended period
+641,385,inactive,active,2019-01-22,Reactivated after review
+642,386,,active,2023-04-19,Account opened
+643,387,,active,2023-05-18,Account opened
+644,387,active,active,2024-07-09,Reactivated after review
+645,388,,active,2025-08-21,Account opened
+646,389,,active,2024-09-08,Account opened
+647,390,,active,2023-10-17,Account opened
+648,390,active,suspended,2025-02-04,Suspicious activity under review
+649,391,,active,2024-04-11,Account opened
+650,392,,active,2021-09-01,Account opened
+651,392,active,active,2022-03-15,Reactivated after review
+652,393,,active,2023-09-29,Account opened
+653,393,active,suspended,2024-12-12,Suspicious activity under review
+654,393,suspended,active,2025-10-16,Reactivated after review
+655,394,,active,2023-09-10,Account opened
+656,395,,active,2018-11-16,Account opened
+657,395,active,active,2019-01-01,Reactivated after review
+658,396,,active,2024-01-30,Account opened
+659,396,active,active,2024-12-16,Reactivated after review
+660,397,,active,2022-04-05,Account opened
+661,398,,active,2013-02-25,Account opened
+662,399,,active,2019-02-04,Account opened
+663,400,,active,2018-08-18,Account opened
+664,400,active,active,2018-12-14,Reactivated after review
+665,401,,active,2023-03-19,Account opened
+666,402,,active,2016-12-07,Account opened
+667,403,,active,2024-01-20,Account opened
+668,403,active,active,2025-01-29,Reactivated after review
+669,404,,active,2016-02-24,Account opened
+670,405,,active,2024-01-09,Account opened
+671,406,,active,2020-07-10,Account opened
+672,407,,active,2019-05-26,Account opened
+673,407,active,active,2020-01-29,Reactivated after review
+674,408,,active,2023-09-17,Account opened
+675,409,,active,2025-02-19,Account opened
+676,409,active,inactive,2025-08-18,No activity for extended period
+677,409,inactive,suspended,2025-11-10,Suspicious activity under review
+678,410,,active,2021-03-04,Account opened
+679,411,,active,2025-05-20,Account opened
+680,411,active,inactive,2025-12-09,No activity for extended period
+681,412,,active,2020-10-12,Account opened
+682,412,active,inactive,2021-01-06,No activity for extended period
+683,412,inactive,active,2021-09-05,Reactivated after review
+684,413,,active,2018-07-20,Account opened
+685,414,,active,2017-07-31,Account opened
+686,414,active,suspended,2017-10-10,Suspicious activity under review
+687,414,suspended,active,2017-12-30,Reactivated after review
+688,415,,active,2025-08-20,Account opened
+689,416,,active,2024-06-14,Account opened
+690,416,active,inactive,2024-11-14,No activity for extended period
+691,416,inactive,active,2025-08-02,Reactivated after review
+692,417,,active,2021-05-12,Account opened
+693,418,,active,2016-11-03,Account opened
+694,418,active,inactive,2017-12-23,No activity for extended period
+695,418,inactive,inactive,2018-08-05,No activity for extended period
+696,419,,active,2020-11-06,Account opened
+697,420,,active,2014-10-22,Account opened
+698,420,active,inactive,2015-07-26,No activity for extended period
+699,420,inactive,active,2016-03-25,Reactivated after review
+700,421,,active,2015-05-15,Account opened
+701,422,,active,2020-07-23,Account opened
+702,423,,active,2021-02-04,Account opened
+703,423,active,active,2022-04-21,Reactivated after review
+704,424,,active,2016-07-01,Account opened
+705,424,active,active,2017-03-20,Reactivated after review
+706,425,,active,2023-01-07,Account opened
+707,426,,active,2016-03-21,Account opened
+708,427,,active,2020-09-12,Account opened
+709,428,,active,2016-01-05,Account opened
+710,429,,active,2017-11-11,Account opened
+711,430,,active,2023-07-04,Account opened
+712,430,active,suspended,2023-10-13,Suspicious activity under review
+713,430,suspended,active,2024-06-27,Reactivated after review
+714,431,,active,2022-06-23,Account opened
+715,431,active,suspended,2023-10-03,Suspicious activity under review
+716,432,,active,2021-11-01,Account opened
+717,432,active,active,2022-09-10,Reactivated after review
+718,433,,active,2025-12-18,Account opened
+719,434,,active,2024-05-31,Account opened
+720,435,,active,2024-07-22,Account opened
+721,435,active,active,2025-07-17,Reactivated after review
+722,436,,active,2017-03-27,Account opened
+723,436,active,suspended,2018-02-02,Suspicious activity under review
+724,436,suspended,active,2018-08-11,Reactivated after review
+725,437,,active,2019-08-31,Account opened
+726,438,,active,2019-01-06,Account opened
+727,439,,active,2019-09-18,Account opened
+728,439,active,suspended,2020-06-25,Suspicious activity under review
+729,439,suspended,active,2020-08-01,Reactivated after review
+730,440,,active,2020-12-20,Account opened
+731,441,,active,2024-05-12,Account opened
+732,442,,active,2025-05-30,Account opened
+733,443,,active,2025-05-09,Account opened
+734,444,,active,2021-02-25,Account opened
+735,444,active,inactive,2021-09-10,No activity for extended period
+736,444,inactive,active,2022-02-20,Reactivated after review
+737,445,,active,2023-07-11,Account opened
+738,445,active,active,2024-03-19,Reactivated after review
+739,446,,active,2015-04-08,Account opened
+740,446,active,inactive,2015-10-06,No activity for extended period
+741,447,,active,2020-10-23,Account opened
+742,448,,active,2022-04-28,Account opened
+743,449,,active,2023-12-18,Account opened
+744,450,,active,2018-05-13,Account opened
+745,451,,active,2014-05-17,Account opened
+746,451,active,suspended,2014-08-19,Suspicious activity under review
+747,451,suspended,active,2015-05-20,Reactivated after review
+748,452,,active,2021-09-07,Account opened
+749,452,active,suspended,2022-05-20,Suspicious activity under review
+750,452,suspended,active,2023-08-12,Reactivated after review
+751,453,,active,2022-08-30,Account opened
+752,454,,active,2016-08-09,Account opened
+753,454,active,suspended,2016-10-23,Suspicious activity under review
+754,454,suspended,active,2017-01-27,Reactivated after review
+755,455,,active,2020-02-07,Account opened
+756,455,active,active,2021-01-17,Reactivated after review
+757,456,,active,2023-09-23,Account opened
+758,456,active,active,2024-05-19,Reactivated after review
+759,457,,active,2016-08-26,Account opened
+760,458,,active,2024-01-23,Account opened
+761,458,active,suspended,2025-01-17,Suspicious activity under review
+762,458,suspended,active,2025-05-09,Reactivated after review
+763,459,,active,2025-05-22,Account opened
+764,460,,active,2021-11-11,Account opened
+765,461,,active,2022-03-03,Account opened
+766,461,active,active,2022-06-17,Reactivated after review
+767,462,,active,2018-06-05,Account opened
+768,463,,active,2021-09-25,Account opened
+769,464,,active,2020-12-18,Account opened
+770,465,,active,2018-11-01,Account opened
+771,465,active,inactive,2020-03-02,No activity for extended period
+772,466,,active,2024-12-20,Account opened
+773,467,,active,2021-06-15,Account opened
+774,467,active,suspended,2022-04-15,Suspicious activity under review
+775,467,suspended,active,2023-03-27,Reactivated after review
+776,468,,active,2019-04-09,Account opened
+777,469,,active,2025-08-11,Account opened
+778,470,,active,2025-02-04,Account opened
+779,471,,active,2021-01-21,Account opened
+780,472,,active,2016-03-20,Account opened
+781,473,,active,2013-03-21,Account opened
+782,474,,active,2023-12-21,Account opened
+783,475,,active,2025-04-17,Account opened
+784,475,active,active,2025-07-28,Reactivated after review
+785,476,,active,2023-09-28,Account opened
+786,476,active,suspended,2024-02-21,Suspicious activity under review
+787,476,suspended,active,2025-03-11,Reactivated after review
+788,477,,active,2025-08-23,Account opened
+789,478,,active,2023-03-03,Account opened
+790,479,,active,2020-08-25,Account opened
+791,479,active,inactive,2020-11-12,No activity for extended period
+792,479,inactive,active,2021-08-05,Reactivated after review
+793,480,,active,2025-08-17,Account opened
+794,481,,active,2024-06-07,Account opened
+795,482,,active,2023-06-07,Account opened
+796,483,,active,2025-10-15,Account opened
+797,484,,active,2019-03-29,Account opened
+798,484,active,inactive,2019-10-22,No activity for extended period
+799,484,inactive,active,2020-09-26,Reactivated after review
+800,485,,active,2020-04-21,Account opened
+801,485,active,inactive,2021-07-08,No activity for extended period
+802,485,inactive,active,2022-03-12,Reactivated after review
+803,486,,active,2023-10-04,Account opened
+804,487,,active,2025-06-25,Account opened
+805,488,,active,2021-09-22,Account opened
+806,488,active,active,2022-08-28,Reactivated after review
+807,489,,active,2024-07-15,Account opened
+808,489,active,inactive,2024-12-12,No activity for extended period
+809,489,inactive,active,2025-11-17,Reactivated after review
+810,490,,active,2025-10-28,Account opened
+811,491,,active,2025-07-22,Account opened
+812,492,,active,2025-06-20,Account opened
+813,493,,active,2025-10-23,Account opened
+814,494,,active,2024-12-15,Account opened
+815,494,active,inactive,2025-11-07,No activity for extended period
+816,495,,active,2023-05-31,Account opened
+817,496,,active,2023-12-31,Account opened
+818,496,active,inactive,2025-05-11,No activity for extended period
+819,496,inactive,suspended,2025-07-23,Suspicious activity under review
+820,497,,active,2024-09-08,Account opened
+821,497,active,active,2025-02-19,Reactivated after review
+822,498,,active,2015-03-17,Account opened
+823,498,active,active,2015-10-15,Reactivated after review
+824,499,,active,2025-06-04,Account opened
+825,500,,active,2020-04-07,Account opened
+826,501,,active,2025-08-04,Account opened
+827,502,,active,2025-03-16,Account opened
+828,503,,active,2017-06-22,Account opened
+829,504,,active,2021-08-04,Account opened
+830,504,active,suspended,2021-09-19,Suspicious activity under review
+831,504,suspended,active,2021-10-30,Reactivated after review
+832,505,,active,2021-05-18,Account opened
+833,506,,active,2024-11-21,Account opened
+834,506,active,suspended,2025-11-11,Suspicious activity under review
+835,507,,active,2024-07-28,Account opened
+836,507,active,suspended,2025-01-02,Suspicious activity under review
+837,507,suspended,active,2025-09-09,Reactivated after review
+838,508,,active,2024-12-02,Account opened
+839,508,active,active,2025-01-26,Reactivated after review
+840,509,,active,2022-05-23,Account opened
+841,510,,active,2023-08-02,Account opened
+842,511,,active,2022-08-02,Account opened
+843,512,,active,2019-04-30,Account opened
+844,513,,active,2022-05-05,Account opened
+845,514,,active,2020-03-20,Account opened
+846,515,,active,2010-10-12,Account opened
+847,515,active,active,2011-09-05,Reactivated after review
+848,516,,active,2012-06-08,Account opened
+849,516,active,inactive,2013-08-04,No activity for extended period
+850,516,inactive,active,2014-07-18,Reactivated after review
+851,517,,active,2020-11-11,Account opened
+852,518,,active,2013-12-02,Account opened
+853,518,active,active,2015-02-28,Reactivated after review
+854,519,,active,2024-10-03,Account opened
+855,519,active,inactive,2025-03-25,No activity for extended period
+856,520,,active,2019-06-29,Account opened
+857,521,,active,2018-06-03,Account opened
+858,522,,active,2025-10-26,Account opened
+859,523,,active,2022-01-08,Account opened
+860,523,active,active,2022-10-20,Reactivated after review
+861,524,,active,2018-01-11,Account opened
+862,524,active,active,2018-11-25,Reactivated after review
+863,525,,active,2023-03-20,Account opened
+864,525,active,active,2024-02-13,Reactivated after review
+865,526,,active,2023-01-18,Account opened
+866,526,active,inactive,2023-04-03,No activity for extended period
+867,526,inactive,active,2024-03-14,Reactivated after review
+868,527,,active,2024-10-08,Account opened
+869,527,active,active,2025-09-02,Reactivated after review
+870,528,,active,2023-05-18,Account opened
+871,528,active,inactive,2023-07-09,No activity for extended period
+872,528,inactive,closed,2024-09-11,Customer requested closure
+873,529,,active,2019-02-12,Account opened
+874,530,,active,2020-11-14,Account opened
+875,530,active,suspended,2022-03-21,Suspicious activity under review
+876,530,suspended,active,2022-07-19,Reactivated after review
+877,531,,active,2021-10-19,Account opened
+878,532,,active,2025-03-16,Account opened
+879,532,active,suspended,2025-10-21,Suspicious activity under review
+880,533,,active,2025-08-02,Account opened
+881,534,,active,2023-06-14,Account opened
+882,535,,active,2018-04-22,Account opened
+883,535,active,suspended,2019-03-31,Suspicious activity under review
+884,535,suspended,closed,2019-10-23,Customer requested closure
+885,536,,active,2021-05-17,Account opened
+886,537,,active,2024-09-10,Account opened
+887,538,,active,2025-08-20,Account opened
+888,539,,active,2024-01-29,Account opened
+889,539,active,inactive,2024-06-25,No activity for extended period
+890,539,inactive,active,2024-11-09,Reactivated after review
+891,540,,active,2014-06-26,Account opened
+892,541,,active,2012-08-02,Account opened
+893,541,active,suspended,2013-11-27,Suspicious activity under review
+894,541,suspended,active,2014-06-20,Reactivated after review
+895,542,,active,2024-09-03,Account opened
+896,542,active,active,2025-01-17,Reactivated after review
+897,543,,active,2022-01-30,Account opened
+898,544,,active,2022-02-09,Account opened
+899,545,,active,2024-05-01,Account opened
+900,546,,active,2025-12-16,Account opened
+901,547,,active,2013-02-07,Account opened
+902,547,active,active,2013-05-08,Reactivated after review
+903,548,,active,2024-12-08,Account opened
+904,549,,active,2019-05-22,Account opened
+905,549,active,suspended,2020-05-24,Suspicious activity under review
+906,549,suspended,active,2021-08-08,Reactivated after review
+907,550,,active,2025-02-09,Account opened
+908,551,,active,2017-07-27,Account opened
+909,551,active,active,2018-11-16,Reactivated after review
+910,552,,active,2014-12-09,Account opened
+911,553,,active,2022-12-10,Account opened
+912,554,,active,2025-02-10,Account opened
+913,555,,active,2025-10-27,Account opened
+914,556,,active,2025-09-19,Account opened
+915,557,,active,2025-02-18,Account opened
+916,558,,active,2024-12-28,Account opened
+917,559,,active,2024-08-02,Account opened
+918,560,,active,2024-12-31,Account opened
+919,560,active,inactive,2025-03-27,No activity for extended period
+920,561,,active,2014-05-12,Account opened
+921,562,,active,2016-06-19,Account opened
+922,563,,active,2022-12-28,Account opened
+923,564,,active,2022-12-23,Account opened
+924,564,active,inactive,2023-12-31,No activity for extended period
+925,564,inactive,active,2025-04-26,Reactivated after review
+926,565,,active,2025-07-09,Account opened
+927,566,,active,2023-05-06,Account opened
+928,566,active,active,2023-09-25,Reactivated after review
+929,567,,active,2017-07-20,Account opened
+930,567,active,inactive,2018-04-12,No activity for extended period
+931,567,inactive,active,2019-04-22,Reactivated after review
+932,568,,active,2023-08-12,Account opened
+933,568,active,active,2024-06-15,Reactivated after review
+934,569,,active,2025-09-23,Account opened
+935,570,,active,2022-11-11,Account opened
+936,571,,active,2018-06-27,Account opened
+937,571,active,suspended,2019-10-15,Suspicious activity under review
+938,572,,active,2020-03-30,Account opened
+939,572,active,active,2021-07-27,Reactivated after review
+940,573,,active,2020-09-17,Account opened
+941,573,active,inactive,2022-01-25,No activity for extended period
+942,573,inactive,active,2023-03-25,Reactivated after review
+943,574,,active,2022-10-24,Account opened
+944,575,,active,2020-10-24,Account opened
+945,576,,active,2012-03-02,Account opened
+946,577,,active,2024-01-29,Account opened
+947,577,active,suspended,2024-06-29,Suspicious activity under review
+948,577,suspended,active,2025-03-02,Reactivated after review
+949,578,,active,2025-04-30,Account opened
+950,579,,active,2024-03-31,Account opened
+951,579,active,inactive,2025-03-06,No activity for extended period
+952,580,,active,2020-08-30,Account opened
+953,581,,active,2025-04-25,Account opened
+954,582,,active,2024-02-17,Account opened
+955,583,,active,2025-03-20,Account opened
+956,584,,active,2022-05-23,Account opened
+957,584,active,suspended,2022-10-27,Suspicious activity under review
+958,584,suspended,suspended,2023-02-17,Suspicious activity under review
+959,585,,active,2021-07-19,Account opened
+960,585,active,active,2022-07-23,Reactivated after review
+961,586,,active,2019-06-25,Account opened
+962,586,active,inactive,2020-06-07,No activity for extended period
+963,586,inactive,active,2020-08-05,Reactivated after review
+964,587,,active,2024-01-19,Account opened
+965,587,active,suspended,2025-01-07,Suspicious activity under review
+966,587,suspended,active,2025-12-21,Reactivated after review
+967,588,,active,2020-06-27,Account opened
+968,588,active,inactive,2020-08-01,No activity for extended period
+969,588,inactive,active,2021-07-04,Reactivated after review
+970,589,,active,2025-11-13,Account opened
+971,590,,active,2022-05-23,Account opened
+972,591,,active,2023-04-20,Account opened
+973,592,,active,2016-04-19,Account opened
+974,592,active,suspended,2016-07-28,Suspicious activity under review
+975,592,suspended,active,2017-07-08,Reactivated after review
+976,593,,active,2014-04-04,Account opened
+977,593,active,inactive,2014-09-01,No activity for extended period
+978,593,inactive,active,2014-10-13,Reactivated after review
+979,594,,active,2025-08-20,Account opened
+980,595,,active,2025-09-27,Account opened
+981,596,,active,2021-07-20,Account opened
+982,596,active,inactive,2022-10-12,No activity for extended period
+983,596,inactive,active,2023-12-05,Reactivated after review
+984,597,,active,2024-03-23,Account opened
+985,597,active,active,2025-07-05,Reactivated after review
+986,598,,active,2025-07-16,Account opened
+987,599,,active,2025-10-16,Account opened
+988,600,,active,2025-08-12,Account opened
+989,601,,active,2015-09-16,Account opened
+990,601,active,suspended,2016-10-20,Suspicious activity under review
+991,601,suspended,active,2017-12-02,Reactivated after review
+992,602,,active,2023-10-14,Account opened
+993,602,active,active,2023-11-13,Reactivated after review
+994,603,,active,2025-09-29,Account opened
+995,604,,active,2025-02-07,Account opened
+996,605,,active,2019-03-16,Account opened
+997,605,active,suspended,2020-01-21,Suspicious activity under review
+998,605,suspended,active,2020-10-28,Reactivated after review
+999,606,,active,2022-03-15,Account opened
+1000,607,,active,2022-08-17,Account opened
+1001,607,active,suspended,2022-10-15,Suspicious activity under review
+1002,607,suspended,active,2023-01-06,Reactivated after review
+1003,608,,active,2024-11-20,Account opened
+1004,609,,active,2024-12-21,Account opened
+1005,610,,active,2015-09-16,Account opened
+1006,611,,active,2025-03-16,Account opened
+1007,611,active,inactive,2025-04-22,No activity for extended period
+1008,612,,active,2025-04-05,Account opened
+1009,612,active,suspended,2025-07-31,Suspicious activity under review
+1010,613,,active,2025-02-23,Account opened
+1011,613,active,suspended,2025-11-13,Suspicious activity under review
+1012,614,,active,2023-09-13,Account opened
+1013,615,,active,2024-10-27,Account opened
+1014,615,active,inactive,2025-12-14,No activity for extended period
+1015,616,,active,2024-09-17,Account opened
+1016,616,active,active,2025-01-15,Reactivated after review
+1017,617,,active,2019-03-11,Account opened
+1018,617,active,inactive,2019-06-03,No activity for extended period
+1019,617,inactive,active,2019-10-28,Reactivated after review
+1020,618,,active,2022-11-19,Account opened
+1021,618,active,inactive,2023-02-24,No activity for extended period
+1022,618,inactive,suspended,2023-04-23,Suspicious activity under review
+1023,619,,active,2024-02-18,Account opened
+1024,620,,active,2025-10-07,Account opened
+1025,621,,active,2024-06-14,Account opened
+1026,622,,active,2024-10-06,Account opened
+1027,623,,active,2020-12-21,Account opened
+1028,624,,active,2025-12-03,Account opened
+1029,625,,active,2023-09-22,Account opened
+1030,625,active,suspended,2024-04-06,Suspicious activity under review
+1031,625,suspended,suspended,2025-08-01,Suspicious activity under review
+1032,626,,active,2025-09-10,Account opened
+1033,627,,active,2014-10-25,Account opened
+1034,627,active,active,2015-07-19,Reactivated after review
+1035,628,,active,2025-09-29,Account opened
+1036,629,,active,2019-10-29,Account opened
+1037,630,,active,2022-02-11,Account opened
+1038,631,,active,2022-07-10,Account opened
+1039,632,,active,2021-06-03,Account opened
+1040,633,,active,2023-01-31,Account opened
+1041,633,active,active,2024-04-12,Reactivated after review
+1042,634,,active,2024-03-03,Account opened
+1043,634,active,suspended,2024-05-24,Suspicious activity under review
+1044,634,suspended,active,2025-01-07,Reactivated after review
+1045,635,,active,2022-11-09,Account opened
+1046,636,,active,2019-04-29,Account opened
+1047,637,,active,2017-08-30,Account opened
+1048,638,,active,2021-05-16,Account opened
+1049,638,active,active,2022-02-20,Reactivated after review
+1050,639,,active,2017-11-11,Account opened
+1051,639,active,active,2018-01-30,Reactivated after review
+1052,640,,active,2022-05-24,Account opened
+1053,641,,active,2024-11-06,Account opened
+1054,641,active,suspended,2025-09-27,Suspicious activity under review
+1055,642,,active,2020-05-12,Account opened
+1056,642,active,suspended,2020-12-31,Suspicious activity under review
+1057,642,suspended,active,2021-08-21,Reactivated after review
+1058,643,,active,2025-09-01,Account opened
+1059,644,,active,2015-06-23,Account opened
+1060,645,,active,2023-12-01,Account opened
+1061,645,active,active,2024-10-24,Reactivated after review
+1062,646,,active,2024-08-29,Account opened
+1063,647,,active,2018-01-08,Account opened
+1064,648,,active,2021-12-07,Account opened
+1065,649,,active,2025-03-09,Account opened
+1066,649,active,suspended,2025-12-19,Suspicious activity under review
+1067,650,,active,2021-11-19,Account opened
+1068,650,active,inactive,2022-07-25,No activity for extended period
+1069,650,inactive,active,2023-09-14,Reactivated after review
+1070,651,,active,2025-01-27,Account opened
+1071,652,,active,2025-12-09,Account opened
+1072,653,,active,2019-03-19,Account opened
+1073,654,,active,2023-03-24,Account opened
+1074,655,,active,2017-06-22,Account opened
+1075,655,active,suspended,2017-12-18,Suspicious activity under review
+1076,655,suspended,active,2018-10-22,Reactivated after review
+1077,656,,active,2020-10-15,Account opened
+1078,657,,active,2011-03-07,Account opened
+1079,657,active,suspended,2011-11-15,Suspicious activity under review
+1080,657,suspended,active,2012-10-08,Reactivated after review
+1081,658,,active,2021-06-27,Account opened
+1082,658,active,suspended,2022-07-08,Suspicious activity under review
+1083,658,suspended,active,2023-04-12,Reactivated after review
+1084,659,,active,2014-03-14,Account opened
+1085,660,,active,2023-07-29,Account opened
+1086,660,active,suspended,2024-11-11,Suspicious activity under review
+1087,661,,active,2023-04-18,Account opened
+1088,661,active,suspended,2024-03-19,Suspicious activity under review
+1089,661,suspended,active,2024-09-08,Reactivated after review
+1090,662,,active,2025-05-03,Account opened
+1091,663,,active,2025-02-20,Account opened
+1092,664,,active,2025-10-21,Account opened
+1093,665,,active,2023-11-15,Account opened
+1094,665,active,active,2025-03-06,Reactivated after review
+1095,666,,active,2023-12-07,Account opened
+1096,667,,active,2021-02-07,Account opened
+1097,667,active,suspended,2021-03-10,Suspicious activity under review
+1098,667,suspended,active,2022-06-29,Reactivated after review
+1099,668,,active,2022-06-15,Account opened
+1100,668,active,suspended,2023-01-24,Suspicious activity under review
+1101,668,suspended,active,2024-01-05,Reactivated after review
+1102,669,,active,2024-02-22,Account opened
+1103,669,active,active,2025-04-29,Reactivated after review
+1104,670,,active,2020-03-07,Account opened
+1105,671,,active,2020-12-06,Account opened
+1106,672,,active,2024-07-16,Account opened
+1107,673,,active,2023-08-08,Account opened
+1108,673,active,inactive,2023-12-28,No activity for extended period
+1109,673,inactive,active,2024-10-11,Reactivated after review
+1110,674,,active,2023-07-19,Account opened
+1111,674,active,suspended,2023-10-09,Suspicious activity under review
+1112,674,suspended,active,2024-01-19,Reactivated after review
+1113,675,,active,2024-02-17,Account opened
+1114,676,,active,2025-03-23,Account opened
+1115,676,active,active,2025-05-06,Reactivated after review
+1116,677,,active,2019-12-14,Account opened
+1117,677,active,inactive,2020-04-14,No activity for extended period
+1118,678,,active,2019-04-09,Account opened
+1119,678,active,active,2019-08-11,Reactivated after review
+1120,679,,active,2019-07-03,Account opened
+1121,679,active,closed,2020-05-15,Customer requested closure
+1122,680,,active,2025-01-19,Account opened
+1123,680,active,suspended,2025-05-18,Suspicious activity under review
+1124,681,,active,2025-11-22,Account opened
+1125,682,,active,2020-11-25,Account opened
+1126,683,,active,2025-01-15,Account opened
+1127,684,,active,2021-09-15,Account opened
+1128,685,,active,2022-04-25,Account opened
+1129,686,,active,2022-07-20,Account opened
+1130,686,active,inactive,2023-08-22,No activity for extended period
+1131,686,inactive,active,2024-12-18,Reactivated after review
+1132,687,,active,2023-07-28,Account opened
+1133,688,,active,2024-11-06,Account opened
+1134,689,,active,2024-08-14,Account opened
+1135,689,active,inactive,2025-08-01,No activity for extended period
+1136,690,,active,2025-10-15,Account opened
+1137,691,,active,2021-06-30,Account opened
+1138,691,active,suspended,2021-12-18,Suspicious activity under review
+1139,691,suspended,active,2023-02-06,Reactivated after review
+1140,692,,active,2025-01-01,Account opened
+1141,693,,active,2023-12-15,Account opened
+1142,694,,active,2025-02-21,Account opened
+1143,695,,active,2017-02-17,Account opened
+1144,696,,active,2024-03-15,Account opened
+1145,696,active,active,2024-09-30,Reactivated after review
+1146,697,,active,2013-08-24,Account opened
+1147,698,,active,2025-05-06,Account opened
+1148,699,,active,2016-06-30,Account opened
+1149,700,,active,2013-06-17,Account opened

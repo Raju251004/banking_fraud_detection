@@ -1,0 +1,7 @@
+transaction_type_id,transaction_type_name,transaction_category,description
+1,Deposit,Cash Movement,Cash or cheque deposit into account
+2,Withdrawal,Cash Movement,Cash withdrawal from account
+3,Purchase,Payment,Point-of-sale or online purchase
+4,Transfer,Payment,Fund transfer between accounts
+5,Bill Payment,Payment,Utility or service bill payment
+6,UPI,Payment,Unified Payments Interface transaction
